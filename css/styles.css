@@ -10,7 +10,7 @@ body {
   font-family: "Roboto", sans-serif;
   color: var(--color-black);
   font-size: 14px;
-  line-height: 1.46;
+  line-height: 1.14;
   font-weight: 700px;
 }
 
@@ -51,6 +51,7 @@ body {
   text-decoration: none;
   font-size: 14px;
   font-weight: 500;
+  line-height: 1.14;
   color: var(--color-black);
 }
 
@@ -169,13 +170,12 @@ body {
 .team-fig-header {
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 0.03em;
 }
 
 .team-fig-text {
   color: var(--color-grey);
+  font-weight: 400;
   line-height: 1.2;
-  letter-spacing: 0.03em;
 }
 
 /* footer */
@@ -269,7 +269,7 @@ body {
 }
 
 .project-text {
-  letter-spacing: 0.03em;
-  line-height: 1.9;
+  font-size: 16px;
+  line-height: 1.88;
   color: var(--color-grey);
 }
