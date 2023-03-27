@@ -258,7 +258,11 @@ body {
 .project-photo {
 }
 
-.project-description {
+.project-description-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.88;
+  color: var(--color-grey);
 }
 
 .project-header {
@@ -266,10 +270,4 @@ body {
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
-}
-
-.project-text {
-  font-size: 16px;
-  line-height: 1.88;
-  color: var(--color-grey);
 }
